@@ -145,7 +145,7 @@ The Power BI dashboard includes:
 
 # 📷 Dashboard Preview
 
-![Power BI Dashboard](Power%20BI%20Dashboard_Screenshot.png)
+![Power BI Dashboard](Dashboard.png)
 
 ---
 
