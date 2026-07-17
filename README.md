@@ -163,7 +163,7 @@ The dashboard highlights valuable business insights, including:
 
 ### Business Insights Visualization
 
-![Key Business Insights](Key_Business_Insights.png)
+![Key Business Insights](Business_Insights.png)
 
 ---
 
